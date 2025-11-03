@@ -1,0 +1,1 @@
+import{_ as e,a,o as l,aS as i}from"./chunks/framework.CyAA8tS4.js";const m=JSON.parse('{"title":"更新日志","description":"","frontmatter":{},"headers":[],"relativePath":"docs/logs.md","filePath":"docs/logs.md"}'),t={name:"docs/logs.md"},r=i("",39),o=[r];function s(h,u,d,n,c,_){return l(),a("div",null,o)}const q=e(t,[["render",s]]);export{m as __pageData,q as default};
